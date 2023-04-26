@@ -27,7 +27,7 @@ func main() {
 	// fmt.Println(scrape_configs)
 	fmt.Println(value)
 	packagetest.Packagetest()
-
+    packagetest.Packagetest()
 	// 导入本地包步骤
 	// 1)在自建包目录下执行“go mod init <包名>”
 	// 2)在项目根目录下执行“go mod init <项目名>”
